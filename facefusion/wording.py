@@ -107,7 +107,7 @@ WORDING: Dict[str, Any] = \
 		"start_button": "开始",
 		"stop_button": "结束",
 		"clear_button": "清除",
-		"donate_button": "捐赠",
+		"donate_button": "大灰狼专版☎️☎️VX:279437541",
 		"benchmark_results_dataframe": "基准结果",
 		"benchmark_runs_checkbox_group": "基准运行",
 		"benchmark_cycles_slider": "基准周期",
